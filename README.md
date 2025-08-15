@@ -53,7 +53,7 @@ This analysis revealed that **Random Forest significantly outperforms XGBoost** 
 ```bash
 .
 │   └── covertype.csv                    # UCI Forest Cover Type dataset
-│   └── forest_cover_classification.py   # Main analysis script
+│   └── .ipynb   # Main analysis script
 └── README.md
 ```
 
